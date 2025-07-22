@@ -1,1 +1,1 @@
-# cadastroFaculddade
+# cadastroFaculdade
